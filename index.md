@@ -1,25 +1,13 @@
-## Welcome to GitHub Pages
+## 个人简历
 
-You can use the [editor on GitHub](https://github.com/Schneizelw/schneizelw.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+吴洋桥的个人简历.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### 个人信息
+姓名：吴洋桥
+型别：男
+出生年月日：1997年1月13日
+学校专业：西南大学计算机科学与技术学院 软件学院
+Email：744587537@qq.com
 
 **Bold** and _Italic_ and `Code` text
 
