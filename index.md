@@ -14,7 +14,7 @@
 
 **Email**：744587537@qq.com
 
-**github**：https://github.com/livoras
+**github**：
 
 
 ## 自我简介
